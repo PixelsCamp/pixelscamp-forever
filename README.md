@@ -84,7 +84,8 @@ rm -f random.key
   5. Place the contents of `file.enc` and `random.enc` in the _shipping information_ and _shared key_ sections of the GitHub issue.
 
 **Note 1:** The shipping address you give us will only be used to send you the t-shirt, we won't store it in our database.
-**Note 2:** If you get errors about unknown options in the above commands, make user you're using at least version 1.1.1 of OpenSSL.
+
+**Note 2:** If you get errors about unknown options in the above `openssl` commands, make sure you're using at least version 1.1.1 of OpenSSL. We tested in macOS ([homebrew](https://brew.sh/)), Fedora 32, Ubuntu 20.04, and CentOS 8.
 
 On our side we'll use our private key (which only a couple of people have access to) with the following commands to see your address:
 ```
