@@ -34,7 +34,7 @@ Don't forget the `#pixelscamp` `#forever` hashtags!
 
 Glad you asked...
 
-After posting on social media, open an **issue** in this repository using the **same GitHub account** as you used for Pixels Camp. This is how we will keep track of shipping, and also the final proof that you're `#oneofus`.
+After posting on social media, open a new [issue](https://github.com/PixelsCamp/pixelscamp-forever/issues/new/choose) in this repository using the **same GitHub account** as you used for Pixels Camp. This is how we will keep track of shipping, and also the final proof that you're `#oneofus`.
 
 The issue template is pretty straightforward except for the shipping address part. The world doesn't need to know your real name and address, and we're a bunch of nerds, so you'll have to encrypt it in a way only we can decrypt it, which means **asymmetric cryptography** is involved: 💥🤓
 
