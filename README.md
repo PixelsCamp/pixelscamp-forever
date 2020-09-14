@@ -71,7 +71,7 @@ openssl aes-256-cbc -e -in file.txt -pass file:random.key | base64 > file.enc
 openssl rsautl -encrypt -inkey public.crt -certin -in random.key | base64 > random.enc
 rm -f random.key
 ```
-  5. Place the contents of `file.enc` and `random.enc` in the "shipping information" and "encryption key" sections of the GitHub issue.
+  5. Place the contents of `file.enc` and `random.enc` in the _shipping information_ and _shared key_ sections of the GitHub issue.
 
 **Note:** The shipping address you give us will only be used to send you the t-shirt, we won't store it in our database.
 
