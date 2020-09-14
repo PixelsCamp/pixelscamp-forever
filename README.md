@@ -3,7 +3,7 @@ _Or... been there, done that, got the t-shirt!_
 
 After being [postponed](https://blog.pixels.camp/pixels-camp-postponed-fddece7ccc4c) three weeks before it was due to happen in March, Pixels Camp v4.0 was [cancelled](https://blog.pixels.camp/) in September due to the still ongoing COVID-19 pandemic and the uncertainty around it for the forseeable future. 😔
 
-But the pixels community is still out there, and lacking a place to gather this year doesn't mean we don't yearn for ways to pick each other out of the crowd (metaphorically speaking, of course). **Fancy a t-shirt?** 🙂
+But the pixels community is still out there, and lacking a place to gather this year doesn't mean we don't yearn for ways to pick each other out of the crowd (metaphorically speaking, of course). **Fancy a free t-shirt?** 🙂
 
 ## What?
 
