@@ -74,7 +74,7 @@ tKZ5tUKz6b0fG+JXVrjRDS2s0FLnR2Ukh+C0Y8MS6Fn5ruO9c6LMSX4ThsbLxajC
   3. Encrypt `file.txt` with a random 256-bit key unique to you:
 ```
 openssl rand -out random.key 32
-openssl aes-256-cbc -e -in file.txt -pass file:random.key | base64 > file.enc
+openssl aes-256-cbc -e -in file.txt -md sha256 -pbkdf2 -pass file:random.key | base64 > file.enc
 ```
   4. Encrypt the random 256-bit key with our public key:
 ```
@@ -83,12 +83,13 @@ rm -f random.key
 ```
   5. Place the contents of `file.enc` and `random.enc` in the _shipping information_ and _shared key_ sections of the GitHub issue.
 
-**Note:** The shipping address you give us will only be used to send you the t-shirt, we won't store it in our database.
+**Note 1:** The shipping address you give us will only be used to send you the t-shirt, we won't store it in our database.
+**Note 2:** If you get errors about unknown options in the above commands, make user you're using at least version 1.1.1 of OpenSSL.
 
 On our side we'll use our private key (which only a couple of people have access to) with the following commands to see your address:
 ```
 base64 -d random.enc | openssl rsautl -decrypt -inkey private.key -out decryption.key
-base64 -d file.enc | openssl aes-256-cbc -d -pass file:decryption.key
+base64 -d file.enc | openssl aes-256-cbc -d -md sha256 -pbkdf2 -pass file:decryption.key
 ```
 
 ## How do I know I've won?
