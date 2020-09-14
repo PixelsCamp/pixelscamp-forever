@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-I'm a proud member of the Pixels Camp community, I have read the [rules and requirements](https://github.com/PixelsCamp/pixelscamp-forever/blob/master/README.md), and I believe I qualify to get a _Pixels Camp Forever!_ t-shirt.
+I'm a proud member of the Pixels Camp community, I have read the [rules and requirements](https://github.com/PixelsCamp/pixelscamp-forever/blob/master/README.md), and I believe I qualify to get a free _Pixels Camp Forever!_ t-shirt.
 
 This is my public proof on social media:
 
@@ -16,13 +16,13 @@ _Replace this line with a **link** to your social media post, or take a **screen
 ### Encrypted Name and Shipping Address:
 
 ```
-_Paste your name and shipping address (portugal only) here, encrypted using the commands mentioned in the rules._
+Replace this text with your name and shipping address (portugal only), encrypted with a random 256-bit shared key using the commands mentioned in the rules.
 ```
 
 ### Encrypted Shared Key:
 
 ```
-_Paste your random 256-bit key here, encrypted using the commands mentioned in the rules._
+Replace this text with your random 256-bit shared key, encrypted with the Pixels Camp Organization's public key using the commands mentioned in the rules._
 ```
 
 _You can edit the issue and paste the encrypted bits later if you wish. They're only needed after the request is accepted._
