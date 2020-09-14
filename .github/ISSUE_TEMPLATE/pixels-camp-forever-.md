@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-I'm a proud member of the Pixels Camp community, I have read the [rules and requirements](https://github.com/PixelsCamp/pixelscamp-forever/blob/master/README.md), and I believe I qualify to get a free _Pixels Camp Forever!_ t-shirt in size S/M/L/XL (_choose one size, and we'll try to honor it_).
+I'm a proud member of the Pixels Camp community, I have read the [rules and requirements](https://github.com/PixelsCamp/pixelscamp-forever/blob/master/README.md), and I believe I qualify to get a free _Pixels Camp Forever!_ t-shirt in size S/M/L/XL (_choose one size, and we'll try to honor it if possible_).
 
 This is my public proof on social media:
 
