@@ -11,6 +11,8 @@ We have special **_Pixels Camp Forever_** t-shirts ready to be printed and shipp
 
   1. Was **approved** for Pixels Camp v4.0 or any of the previous editions;
   2. Shows some **public proof** that they're a proud member of the pixels community.
+  
+This offer is valid until **October 30, 2020 at 23:59**. Only submissions considered [valid](https://github.com/PixelsCamp/pixelscamp-forever/issues?q=is%3Aissue+is%3Aopen+label%3Avalid) by this deadline will be eligible to get a t-shirt.
 
 ## How?
 
