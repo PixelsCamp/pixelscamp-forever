@@ -11,7 +11,7 @@ I'm a proud member of the Pixels Camp community, I have read the [rules and requ
 
 This is my public proof on social media:
 
-<!--- Replace this line with a **link** to your social media post, or take a **screenshot** of it and drag-and-drop it here if following the link would require creating an account and/or logging in. -->
+<!--- Add a LINK to your social media post, or take a screenshot of it and drag-and-drop it here if following the link would require creating an account and/or logging in. -->
 
 ### Encrypted Name and Shipping Address:
 
